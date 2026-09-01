@@ -47,3 +47,4 @@ MIT License
 ---
 
 作った人: [snsk181](https://github.com/snsk181)
+DID: z6MkjT2ojyZDKDZmgP1thuD2wn6jxdMTPRsxGYvvbUY7awpu
